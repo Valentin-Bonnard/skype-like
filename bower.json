@@ -1,0 +1,31 @@
+{
+  "name": "chat",
+  "description": "socket.io express nodejs chat ( skype-like )",
+  "main": "index.js",
+  "authors": [
+    "Bonnard Valentin <dev.bonnard@gmail.com> (https://bonnard-valentin-resume.herokuapp.com/)"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "express",
+    "server",
+    "socket",
+    "chat"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0",
+    "typeahead.js": "^0.11.1",
+    "socket.io-client": "^2.0.1"
+  }
+}
